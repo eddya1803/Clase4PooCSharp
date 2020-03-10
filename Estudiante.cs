@@ -1,5 +1,8 @@
 class Estudiante{
-    // private int _promedio;
+    // Atributos privados de la clase Estudiantes
+    private string nombre;
+    private string curso;
+    private int _promedio;
 
     // public int Promedio{
     //     get{
